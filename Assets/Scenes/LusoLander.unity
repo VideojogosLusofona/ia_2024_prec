@@ -341,8 +341,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   landerNoThrusters: {fileID: -3292670480771375093, guid: 56b972a576796064b89c637a32ea12af, type: 3}
   landerWithThrusters: {fileID: -8296841764402994927, guid: 56b972a576796064b89c637a32ea12af, type: 3}
-  thrust: 40
-  rotationSpeed: 35
+  thrust: 80
+  rotationSpeed: 40
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
